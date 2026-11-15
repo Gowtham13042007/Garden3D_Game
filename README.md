@@ -155,9 +155,7 @@ python3 -m http.server 8000       # then visit http://localhost:8000/Data_Garden
     └── Data_Garden_3D_Report.pdf   # player guide and learning report
 ```
 
-Adjust this to match your repository.
 
----
 
 ## Limitations and future work
 
