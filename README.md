@@ -153,6 +153,7 @@ python3 -m http.server 8000       # then visit http://localhost:8000/Data_Garden
 └── docs/
     ├── images/             # screenshots (add your own)
     └── Data_Garden_3D_Report.pdf   # player guide and learning report
+    └── Data_Garden_3D_Playtester_Feedback.csv   # Feedback from payers with their scores
 ```
 
 
