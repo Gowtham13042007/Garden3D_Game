@@ -118,8 +118,8 @@ Everything below is taken from the source code (`Data_Garden_3D.html`).
 The game is a single HTML file with no build step.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone "https://github.com/Gowtham13042007/Garden3D_Game.git"
+cd Garden3D_Game
 
 # Option 1: open the file directly
 open Data_Garden_3D.html          # macOS; on Linux use xdg-open, on Windows just double-click
